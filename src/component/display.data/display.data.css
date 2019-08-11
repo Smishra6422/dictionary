@@ -1,0 +1,30 @@
+.datas{
+  position: relative;
+  left: 35%;
+  width: 30%;
+  text-align: center;
+  display: none;
+}
+
+.buttons>div{
+  display: inline-block;
+  text-align: center;
+}
+.buttons{
+  height: 43px;
+  background-color: 	#1c1260;
+  text-align: center;
+  color: white;
+}
+
+.buttons>div>a{
+  font-size: 28px;
+  padding: 0px 10px;
+  margin: 0px 20px;
+}
+.buttons>div>a:hover{
+  cursor: pointer;
+}
+.buttons>div>a:visited{
+  color: black;
+}
